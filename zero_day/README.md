@@ -1,1 +1,1 @@
-#This first time to setup linux
+#This my first time linux
